@@ -20,6 +20,8 @@ test:
 
 production:
   adapter: sqlite3
-  database: db/production.sqlite3
+  username: americasfs
+  password: PuAaxB764m
+  database: americasfarmstand
   pool: 5
   timeout: 5000
