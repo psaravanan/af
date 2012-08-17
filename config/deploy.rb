@@ -1,4 +1,4 @@
-#require 'bundler/capistrano'
+require 'bundler/capistrano'
 
 role :web, "node1252.speedyrails.net"
 role :app, "node1252.speedyrails.net"
